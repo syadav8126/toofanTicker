@@ -1,0 +1,4 @@
+#!/bin/bash
+#python3 main.py
+#python3 readfinstar.py
+python3 average.py COALINDIA 219300
